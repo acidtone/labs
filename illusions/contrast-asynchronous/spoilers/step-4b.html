@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Asynchronous Contrast - Step 2: Animation</title>
+  <link rel="stylesheet" href="css/step-0.css">
+  <link rel="stylesheet" href="css/step-1.css">
+  <style>
+    body {
+      background: grey;
+    }
+
+    div {
+      animation: pulse 2s infinite linear;
+    }
+
+    @keyframes pulse {
+      from {
+        background-color: white;
+      }
+      50% {
+        background-color: black;
+      }
+      to {
+        background-color: white;
+      }
+    }
+
+    .light {
+      border: 15vmin solid lightyellow;
+    }
+    .dark {
+      border: 15vmin solid black;
+    }
+  </style>
+</head>
+<body>
+  <div class="light"></div>
+  <div class="dark"></div>
+</body>
+</html>

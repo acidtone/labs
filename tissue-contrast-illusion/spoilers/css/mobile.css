@@ -1,0 +1,6 @@
+@media (orientation: portrait) {
+  body {
+    flex-direction: column;
+    background-image: linear-gradient(white 50%, black 50%);
+  }
+}

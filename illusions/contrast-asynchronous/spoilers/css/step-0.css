@@ -1,0 +1,14 @@
+body {      
+  height: 100vh;
+  display: flex;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+
+  background-color: grey;
+  border-radius: 50%;
+
+  margin: auto;
+}
