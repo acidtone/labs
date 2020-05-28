@@ -18,7 +18,7 @@ Re-create the _Tissue Contrast Illusion_ by Arthur G. Shapiro.
 ### 2. Create a left-to-right, split-colour background using custom gradient colour stops.
 ![Tissue Illusion: Step 2](images/tissue-step-2.png)
 
-(Spoilers)[https://codepen.io/funwithcodeyyc/pen/WNQqMPR]
+[Spoilers](https://codepen.io/funwithcodeyyc/pen/WNQqMPR)
 
 ### 3. Overlap a full-viewport, semi-transparent image on top of the grey circles (and viewport background).
 ![Tissue Illusion: Step 3](images/tissue-step-3.png)
