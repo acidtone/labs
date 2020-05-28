@@ -28,5 +28,4 @@ Spoilers
 - [Absolutely position an image to the top left corner of the browser window](https://codepen.io/funwithcodeyyc/pen/ExVBLyV)
 
 ## Attributions
-Illusions, Season 1 Episode 2: Brightness and Contrast
-Available on Curiosity Stream
+"Illusions", Season 1 Episode 2: _Brightness and Contrast_ - Available on [Curiosity Stream](https://curiositystream.com/video/1259)
