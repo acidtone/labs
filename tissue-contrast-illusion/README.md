@@ -10,7 +10,7 @@ Re-create the _Tissue Contrast Illusion_ by Arthur G. Shapiro.
 - Create a split-colour background with custom gradient colour stops.
 - Overlap a semi-transparent image with absolute positioning and `opacity`.
 
-### 1. Vertically centre two equally spaced grey circles in the viewport with Flexbox and `margin: auto`.
+### 1. Vertically centre two equally spaced grey circles in the viewport (browser window) with Flexbox.
 ![Tissue Illusion: Step 1](images/tissue-step-1.png)
 
 [Spoilers](https://codepen.io/funwithcodeyyc/pen/RwWzQyz)
