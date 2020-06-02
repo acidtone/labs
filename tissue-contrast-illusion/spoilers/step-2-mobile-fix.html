@@ -26,6 +26,9 @@
     
     root.style.setProperty('--innerHeight', `window.innerHeight${px}`);
 
+    window.addEventListener('resize', () => {
+      root.style.setProperty('--innerHeight', `window.innerHeight${px}`);
+    });
   </script>
 </body>
 </html>
